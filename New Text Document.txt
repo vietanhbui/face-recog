@@ -1,0 +1,3 @@
+create dataset -> dataset creator
+train the recognition -> trainer
+detector -> detector
